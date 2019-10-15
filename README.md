@@ -2,6 +2,8 @@
 
 *PesterInfrastructureTests* is PowerShell module allowing to test Active Directory (for now) in fast and efficient way. You can run it in 2 ways as described below. Depending on how you like to approach things you can either copy code or simply install it from PowerShellGallery. I prefer 2nd way so I can update this code in one place and then simply redeploy everywhere with *Update-Module*
 
+**PesterInfrastructureTests** have been replaced by [Testimo](https://github.com/EvotecIT/Testimo) and this project has beeen **deprecated**. 
+
 ## Copy code Public Directory
 
 Simply copy code from *Public\ActiveDirectory.ps1* and run it as you like.
